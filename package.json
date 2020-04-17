@@ -1,0 +1,15 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "深拷贝.js",
+  "dependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
